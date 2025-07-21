@@ -1,0 +1,40 @@
+body {
+  background: linear-gradient(135deg, #A4B465);
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  color: #626F47;
+  text-align: center;
+}
+
+.container {
+  margin-top: 100px;
+}
+strong {
+  color: rgb(20, 20, 10);
+}
+
+
+input {
+  padding: 10px;
+  font-size: 16px;
+  width: 300px;
+  border: none;
+  border-radius: 5px;
+}
+
+button {
+  margin-left: 10px;
+  padding: 10px 20px;
+  background-color: rgb(190, 176, 176);
+  color: rgb(136, 136, 208);
+  border: none;
+  border-radius: 5px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.suggestions {
+  margin-top: 20px;
+  font-size: 18px;
+}
